@@ -25,3 +25,5 @@ This project explores the capabilities of the ESP32-CAM using the Arduino IDE, i
 
 ### Purpose
 The goal of this project is to gain practical experience with embedded systems, wireless communication, camera modules, and IoT development. It also provides a foundation for building more advanced projects, such as remote monitoring systems, smart cameras, and AI-assisted image processing applications.
+
+![ESP8266 NodeMCU Development Board](ESP32CAM-Basics-Intro-1200x750.jpg)
