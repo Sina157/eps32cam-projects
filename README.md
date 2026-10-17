@@ -27,3 +27,14 @@ This project explores the capabilities of the ESP32-CAM using the Arduino IDE, i
 The goal of this project is to gain practical experience with embedded systems, wireless communication, camera modules, and IoT development. It also provides a foundation for building more advanced projects, such as remote monitoring systems, smart cameras, and AI-assisted image processing applications.
 
 ![ESP8266 NodeMCU Development Board](ESP32CAM-Basics-Intro-1200x750.jpg)
+
+
+### Projects
+
+1. **ESP32 Time Synchronization via HTTP**
+   - Synchronize the system clock of an ESP32 microcontroller using an online time API over Wi-Fi..
+   - [View Project on GitHub](https://github.com/Sina157/eps32cam-projects/tree/main/ESP32-Time-Synchronization)
+
+2. **ESP32-CAM Image Capture and Cloud Transmission**
+   - Capture JPEG images and transmit them to cloud services over Wi-Fi using HTTPS
+   - [View Project on GitHub](https://github.com/Sina157/eps32cam-projects/tree/main/Send_Image_To_Telegram)
